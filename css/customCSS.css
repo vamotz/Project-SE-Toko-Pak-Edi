@@ -1,0 +1,65 @@
+
+body {
+    background-color: paleturquoise;
+}
+
+.margin-top-20percent {
+    margin-top: 20%;
+}
+
+
+.btnAdminHomeBack{
+    background-color: grey;
+    border: none;
+    padding: 0.50px 25px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 25px;
+    font-family: roboto reguler;
+    color: black;
+    text-decoration: none;
+    font-variant: inherit;
+ }
+ .btnAdminHomeForward{
+    background-color: grey;
+    border: none;
+    padding: 0.50px 25px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 25px;
+    font-family: roboto reguler;
+    color: black;
+    text-decoration: none;
+    font-variant: inherit;
+ }
+.list-group-item{
+    color: black;
+}
+.kotak-insert{
+    background: white;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    
+}
+.inputgambar{
+    padding-left: 40%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.stokbarang{
+    padding-right: 10px;
+}
+.Visual{
+    justify-content: center;
+    background-color: whitesmoke;
+    border: none;
+    padding: 0.50px 25px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 25px;
+    font-family: roboto reguler;
+    color: black;
+    text-decoration: none;
+    font-variant: inherit;  
+}
